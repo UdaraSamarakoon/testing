@@ -1,0 +1,32 @@
+0.got to folder -> git bash
+
+1.pwd //see which directory you are in
+
+2.cd Smart-Banking-System-SPM(your folder name)  //go in
+
+3.git branch -a   //see whether which branch you are in
+
+4.git status  //to check whether you have modified files
+
+5.  modified:   MERN-main/mern-frontend-demo/src/components/Navbar/index.jsx  //me wage pennai modifed file eka
+									     //eeka copy karaganna
+
+6.git add (paste)
+
+7.git commit -m "UI modification"  //you can comment inside "anything"
+
+8.git push origin openAccount(your branch name)
+
+----------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+ 
